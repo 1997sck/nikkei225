@@ -53,7 +53,7 @@ def get_data_from_yahoo(reload_nikkei225=False):
         else:
             print('Already have {}'.format(ticker))
 
-#get_data_from_yahoo()
+##get_data_from_yahoo()
 
 def compile_data_nikkei225():
 
